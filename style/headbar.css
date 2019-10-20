@@ -1,0 +1,98 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    font-size: 12px;
+    font-family: monospace;
+}
+
+body {
+    background-image: url(../data/wall.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+    overflow-y: scroll;
+    scroll-behavior: smooth;
+}
+
+.wadah {
+    width: 100%;
+}
+
+.bg2 {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.logo1 {
+    width: 18%;
+    padding-left: 8%;
+    padding-right: 2%;
+}
+
+#logo {
+    width: 65pt;
+    margin: 2%;
+    padding: 5%;
+    border: 2px solid lime;
+    border-radius: 15%;
+    transition: 0.4s;
+}
+
+#logo:hover {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.navbar {
+    width: 50%;
+}
+
+.navbar1 li {
+    list-style: none;
+    float: left;
+}
+
+.navbar1 li a {
+    display: block;
+    margin: 10px;
+    padding: 15px;
+    border-radius: 20%;
+    text-decoration: none;
+    color: #FFF;
+    font-size: 15px;
+    transition: 0.4s;
+}
+
+.navbar1 li a:hover {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.sosmed li a img:hover {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.sosmed {
+    width: 22%;
+    padding-left: 10%;
+}
+
+.sosmed li a img {
+    border: 2px solid lime;
+    transition: 0.4s;
+}
+
+.sosmed ul li {
+    width: 10%;
+}
+
+.smed {
+    width: 25px;
+    margin: 5%;
+    padding: 10%;
+    border-radius: 20%;
+}
+
+.sosmed li {
+    list-style: none;
+}
+
+.garisnav {
+    color: green;
+}

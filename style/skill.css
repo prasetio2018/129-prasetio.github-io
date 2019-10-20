@@ -1,0 +1,63 @@
+#tskill {
+    width: 100%;
+    margin-top: 1%;
+    padding: 1% 5% 5% 5%;
+    background-color: rgba(12, 12, 12, 0.5);
+    border: 2px solid lime;
+    font-size: 100pt;
+}
+
+.jskill {
+    color: aliceblue;
+    padding: 0% 0% 3% 0%;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 25pt;
+}
+
+.skill {
+    font-size: 20pt;
+    width: 100%;
+    color: aliceblue;
+}
+
+.suryaskill {
+    width: 100%;
+    background-color: #ddd;
+    box-sizing: border-box;
+}
+
+.skills {
+    width: 100%;
+    text-align: right;
+    padding: 10px;
+    color: white;
+    box-sizing: border-box;
+}
+
+.html {
+    width: 90%;
+    background-color: #4CAF50;
+}
+
+.css {
+    width: 80%;
+    background-color: #2196F3;
+}
+
+.desain {
+    width: 85%;
+    background-color: #f44336;
+}
+
+.php {
+    width: 60%;
+    background-color: #808080;
+}
+
+#qskill {
+    font-size: 20pt;
+    color: aliceblue;
+    text-align: center;
+    padding: 10% 10% 2% 10%;
+}
